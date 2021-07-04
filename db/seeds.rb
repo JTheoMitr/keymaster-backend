@@ -8,7 +8,9 @@
 
 Scale.destroy_all
 
-scales = Scale.create([ {name: 'C Major', key: 'C', notes: 'C-D-E-F-G-A-B', description: 'C major is one of the most common key signatures used in music. Its key signature has no flats and no sharps. Its relative minor is A minor and its parallel minor is C minor.'}, 
+scales = Scale.create([ 
+                        
+                        {name: 'C Major', key: 'C', notes: 'C-D-E-F-G-A-B', description: 'C major is one of the most common key signatures used in music. Its key signature has no flats and no sharps. Its relative minor is A minor and its parallel minor is C minor.'}, 
                         {name: 'D Major', key: 'D', notes: 'D-E-F#-G-A-B-C#', description: 'D major is a major scale based on D, consisting of the pitches D, E, F♯, G, A, B, and C♯. Its key signature consists of two sharps. Its relative minor is B minor and its parallel minor is D minor.'},
                         {name: 'E Major', key: 'E', notes: 'E-F#-G#-A-B-C#-D#', description: 'E major is a major scale based on E, with the pitches E, F♯, G♯, A, B, C♯, and D♯. Its key signature has four sharps. Its relative minor is C-sharp minor and its parallel minor is E minor. Its enharmonic equivalent, F-flat major, has eight flats, including the double flat B, which makes it impractical to use.'},
                         {name: 'F Major', key: 'F', notes: 'F-G-A-Bb-C-D-E', description: 'F major is a major scale based on F, with the pitches F, G, A, B♭, C, D, and E. Its key signature has one flat: B♭. Its relative minor is D minor and its parallel minor is F minor.'},
@@ -19,7 +21,10 @@ scales = Scale.create([ {name: 'C Major', key: 'C', notes: 'C-D-E-F-G-A-B', desc
                         {name: 'A Minor', key: 'A', notes: 'A-B-C-D-E-F-G', description: 'A minor is a minor scale based on A, with the pitches A, B, C, D, E, F, and G. Its key signature has no flats and no sharps. Its relative major is C major and its parallel major is A major.'},
                         {name: 'B Minor', key: 'B', notes: 'B-C#-D-E-F#-G-A', description: 'B minor is a minor scale based on B, consisting of the pitches B, C♯, D, E, F♯, G, and A. Its key signature consists of two sharps. Its relative major is D major and its parallel major is B major.'},
                         {name: 'C Minor', key: 'C', notes: 'C-D-Eb-F-G-Ab-Bb', description: 'C minor is a minor scale based on C, consisting of the pitches C, D, E♭, F, G, A♭, and B♭. Its key signature consists of three flats. Its relative major is E♭ major and its parallel major is C major.'},
+                        {name: 'D Minor', key: 'D', notes: 'D-E-F-G-A-Bb-C', description: 'D minor is a minor scale based on D, consisting of the pitches D, E, F, G, A, B♭, and C. Its key signature has one flat. Its relative major is F major and its parallel major is D major.'},
+                        {name: 'E Minor', key: 'E', notes: 'E-F#-G-A-B-C-D', description: 'E minor is a minor scale based on E, consisting of the pitches E, F♯, G, A, B, C, and D. Its key signature has one sharp. Its relative major is G major and its parallel major is E major.'},
+                        {name: 'F# Minor', key: 'F#', notes: 'F#-G#-A-B-C#-D-E', description: 'F-sharp minor is a minor scale based on F♯, consisting of the pitches F♯, G♯, A, B, C♯, D, and E. Its key signature has three sharps. Its relative major is A major and its parallel major is F-sharp major.'},
                         {name: 'G# Minor', key: 'G#', notes: 'G#-A#-B-C#-D#-E-F#', description: 'G-sharp minor is a minor scale based on G♯, consisting of the pitches G♯, A♯, B, C♯, D♯, E, and F♯. Its key signature has five sharps.'},
-
+                        {name: 'C# Minor', key: 'C#', notes: 'C#-D#-E-F#-G#-A-B', description: 'C-sharp minor is a minor scale based on C♯, with the pitches C♯, D♯, E, F♯, G♯, A, and B. Its key signature consists of four sharps. The C-sharp natural minor scale is: Changes needed for the melodic and harmonic versions of the scale are written in with accidentals as necessary.'}
 
                     ])
