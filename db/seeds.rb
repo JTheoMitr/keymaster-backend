@@ -58,7 +58,10 @@ scales = Scale.create([
                         {name: 'G# Harmonic Minor', key: 'G#', notes: 'G#-A#-B-C#-D#-E-F##', description: 'The G-sharp harmonic minor scale has 4 sharps, 1 double-sharp. This harmonic minor scale is based on the natural minor scale with the same key / tonic note - G# natural minor scale.'},
                         {name: 'Ab Harmonic Minor', key: 'Ab', notes: 'Ab-Bb-Cb-Db-Eb-Fb-G', description: 'The A-flat harmonic minor scale has 6 flats. This harmonic minor scale is based on the natural minor scale with the same key / tonic note - Ab natural minor.'},
 
-                        {name: 'A Melodic Minor', key: 'A', notes: 'A-B-C-D-E-F#-G#', description: 'The A melodic minor scale has 2 sharps. This melodic minor scale is based on the natural minor scale with the same key / tonic note - A natural minor scale.'}
+                        {name: 'A Melodic Minor', key: 'A', notes: 'A-B-C-D-E-F#-G#', description: 'The A melodic minor scale has 2 sharps. This melodic minor scale is based on the natural minor scale with the same key / tonic note - A natural minor scale.'},
+                        {name: 'A# Melodic Minor', key: 'A#', notes: 'A#-B#-C#-D#-E#-F##-G##', description: 'The A-sharp melodic minor scale has 5 sharps, 2 double-sharps. This melodic minor scale is based on the natural minor scale with the same key / tonic note - A# natural minor scale.'},
+                        {name: 'Bb Melodic Minor', key: 'Bb', notes: 'Bb-C-Db-Eb-F-G-A', description: 'The B-flat melodic minor scale has 3 flats. This melodic minor scale is based on the natural minor scale with the same key / tonic note - Bb natural minor scale.'},
+                        {name: 'B Melodic Minor', key: 'B', notes: 'B-C#-D-E-F#-G#-A#', description: 'The B melodic minor scale has 4 sharps. This melodic minor scale is based on the natural minor scale with the same key / tonic note - B natural minor scale.'},
 
 
 
