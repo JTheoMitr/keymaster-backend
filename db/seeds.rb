@@ -62,6 +62,11 @@ scales = Scale.create([
                         {name: 'A# Melodic Minor', key: 'A#', notes: 'A#-B#-C#-D#-E#-F##-G##', description: 'The A-sharp melodic minor scale has 5 sharps, 2 double-sharps. This melodic minor scale is based on the natural minor scale with the same key / tonic note - A# natural minor scale.'},
                         {name: 'Bb Melodic Minor', key: 'Bb', notes: 'Bb-C-Db-Eb-F-G-A', description: 'The B-flat melodic minor scale has 3 flats. This melodic minor scale is based on the natural minor scale with the same key / tonic note - Bb natural minor scale.'},
                         {name: 'B Melodic Minor', key: 'B', notes: 'B-C#-D-E-F#-G#-A#', description: 'The B melodic minor scale has 4 sharps. This melodic minor scale is based on the natural minor scale with the same key / tonic note - B natural minor scale.'},
+                        {name: 'C Melodic Minor', key: 'C', notes: 'C-D-Eb-F-G-A-B', description: 'The C melodic minor scale has 1 flat. This melodic minor scale is based on the natural minor scale with the same key / tonic note - C natural minor scale.'},
+                        {name: 'C# Melodic Minor', key: 'C#', notes: 'C#-D#-E-F#-G#-A#-B#', description: 'The C-sharp melodic minor scale has 6 sharps. This melodic minor scale is based on the natural minor scale with the same key / tonic note - C# natural minor scale.'},
+                        {name: 'D Melodic Minor', key: 'D', notes: 'D-E-F-G-A-B-C#', description: 'The D melodic minor scale has 1 sharp. This melodic minor scale is based on the natural minor scale with the same key / tonic note - D natural minor scale.'},
+                        {name: 'D# Melodic Minor', key: 'D#', notes: 'D#-E#-F#-G#-A#-B#-C##', description: 'The D-sharp melodic minor scale has 6 sharps, 1 double-sharp. This melodic minor scale is based on the natural minor scale with the same key / tonic note - D# natural minor scale.'},
+                        {name: 'Eb Melodic Minor', key: 'Eb', notes: 'Eb-F-Gb-Ab-Bb-C-D', description: 'The E-flat melodic minor scale has 4 flats. This melodic minor scale is based on the natural minor scale with the same key / tonic note - Eb natural minor scale.'}
 
 
 
