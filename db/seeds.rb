@@ -66,7 +66,10 @@ scales = Scale.create([
                         {name: 'C# Melodic Minor', key: 'C#', notes: 'C#-D#-E-F#-G#-A#-B#', description: 'The C-sharp melodic minor scale has 6 sharps. This melodic minor scale is based on the natural minor scale with the same key / tonic note - C# natural minor scale.'},
                         {name: 'D Melodic Minor', key: 'D', notes: 'D-E-F-G-A-B-C#', description: 'The D melodic minor scale has 1 sharp. This melodic minor scale is based on the natural minor scale with the same key / tonic note - D natural minor scale.'},
                         {name: 'D# Melodic Minor', key: 'D#', notes: 'D#-E#-F#-G#-A#-B#-C##', description: 'The D-sharp melodic minor scale has 6 sharps, 1 double-sharp. This melodic minor scale is based on the natural minor scale with the same key / tonic note - D# natural minor scale.'},
-                        {name: 'Eb Melodic Minor', key: 'Eb', notes: 'Eb-F-Gb-Ab-Bb-C-D', description: 'The E-flat melodic minor scale has 4 flats. This melodic minor scale is based on the natural minor scale with the same key / tonic note - Eb natural minor scale.'}
+                        {name: 'Eb Melodic Minor', key: 'Eb', notes: 'Eb-F-Gb-Ab-Bb-C-D', description: 'The E-flat melodic minor scale has 4 flats. This melodic minor scale is based on the natural minor scale with the same key / tonic note - Eb natural minor scale.'},
+                        {name: 'E Melodic Minor', key: 'E', notes: 'E-F#-G-A-B-C#-D#', description: 'The E melodic minor scale has 3 sharps. This melodic minor scale is based on the natural minor scale with the same key / tonic note - E natural minor scale.'},
+                        {name: 'F Melodic Minor', key: 'F', notes: 'F-G-Ab-Bb-C-D-E', description: 'The F melodic minor scale has 2 flats. This melodic minor scale is based on the natural minor scale with the same key / tonic note - F natural minor scale.'},
+                        {name: 'F# Melodic Minor', key: 'F#', notes: 'F#-G#-A-B-C#-D#-E#', description: 'The F-sharp harmonic minor scale has 4 sharps. This harmonic minor scale is based on the natural minor scale with the same key / tonic note - F# natural scale.'},
 
 
 
