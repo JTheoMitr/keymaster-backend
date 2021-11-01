@@ -26,6 +26,9 @@ scales = Scale.create([
                         {name: 'B Major', key: 'B', notes: 'B-C#-D#-E-F#-G#-A#', description: 'B major is a major scale based on B. The pitches B, C♯, D♯, E, F♯, G♯, and A♯ are all part of the B major scale. Its key signature has five sharps. Its relative minor is G-sharp minor, its parallel minor is B minor, and its enharmonic equivalent is C-flat major.'}, 
                         {name: 'Cb Major', key: 'Cb', notes: 'Cb-Db-Eb-Fb-Gb-Ab-Bb', description: 'C-flat major is a major scale based on C♭, consisting of the pitches C♭, D♭, E♭, F♭, G♭, A♭, and B♭. Its key signature has seven flats. The direct enharmonic equivalent of C-flat major is B major, a key signature with five sharps.'}, 
 
+                        {name: 'C Harmonic Major', key: 'C', notes: 'C-D-E-F-G-Ab-B', description: 'C major scale with the sixth degree lowered (Ab)'},
+
+
                         {name: 'A Minor', key: 'A', notes: 'A-B-C-D-E-F-G', description: 'A minor is a minor scale based on A, with the pitches A, B, C, D, E, F, and G. Its key signature has no flats and no sharps. Its relative major is C major and its parallel major is A major.'},
                         {name: 'A# Minor', key: 'A#', notes: 'A#-B#-C#-D#-E#-F#-G#', description: 'A-sharp minor is a minor scale based on A♯, consisting of the pitches A♯, B♯, C♯, D♯, E♯, F♯, and G♯. Its key signature has seven sharps, while the direct enharmonic equivalent, B-flat minor, has five flats.'},
                         {name: 'Bb Minor', key: 'Bb', notes: 'Bb-C-Db-Eb-F-Gb-Ab', description: 'B-flat minor is a minor scale based on B♭, consisting of the pitches B♭, C, D♭, E♭, F, G♭, and A♭. Its key signature has five flats. Its relative major is D-flat major and its parallel major is B-flat major. Its enharmonic equivalent, A-sharp minor, which would contain seven sharps, is not normally used.'},
@@ -72,7 +75,7 @@ scales = Scale.create([
                         {name: 'F# Melodic Minor', key: 'F#', notes: 'F#-G#-A-B-C#-D#-E#', description: 'The F-sharp melodic minor scale has 5 sharps. This melodic minor scale is based on the natural minor scale with the same key / tonic note - F# natural minor scale.'},
                         {name: 'G Melodic Minor', key: 'G', notes: 'G-A-Bb-C-D-E-F#', description: 'The G melodic minor scale has 1 flat, 1 sharp. This melodic minor scale is based on the natural minor scale with the same key / tonic note - G natural minor scale.'},
                         {name: 'G# Melodic Minor', key: 'G#', notes: 'G#-A#-B-C#-D#-E#-F##', description: 'The G-sharp melodic minor scale has 5 sharps, 1 double-sharp. This melodic minor scale is based on the natural minor scale with the same key / tonic note - G# natural minor scale.'},
-                        {name: 'Ab Harmonic Minor', key: 'Ab', notes: 'Ab-Bb-Cb-Db-Eb-F-G', description: 'The A-flat melodic minor scale has 5 flats. This melodic minor scale is based on the natural minor scale with the same key / tonic note - Ab natural minor scale.'}
+                        {name: 'Ab Melodic Minor', key: 'Ab', notes: 'Ab-Bb-Cb-Db-Eb-F-G', description: 'The A-flat melodic minor scale has 5 flats. This melodic minor scale is based on the natural minor scale with the same key / tonic note - Ab natural minor scale.'}
 
 
 
