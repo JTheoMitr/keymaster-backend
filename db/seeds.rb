@@ -27,6 +27,10 @@ scales = Scale.create([
                         {name: 'Cb Major', key: 'Cb', notes: 'Cb-Db-Eb-Fb-Gb-Ab-Bb', description: 'C-flat major is a major scale based on C♭, consisting of the pitches C♭, D♭, E♭, F♭, G♭, A♭, and B♭. Its key signature has seven flats. The direct enharmonic equivalent of C-flat major is B major, a key signature with five sharps.'}, 
 
                         {name: 'C Harmonic Major', key: 'C', notes: 'C-D-E-F-G-Ab-B', description: 'C major scale with the sixth degree lowered (Ab)'},
+                        {name: 'C# Harmonic Major', key: 'C#', notes: 'C#-D#-E#-F#-G#-A-B#', description: 'C-sharp major scale with the sixth degree lowered (A)'}, 
+                        {name: 'Db Harmonic Major', key: 'Db', notes: 'Db-Eb-F-Gb-Ab-Bbb-C', description: 'D-flat major scale with the sixth degree lowered (Bbb / A)'}, 
+                        {name: 'D Harmonic Major', key: 'D', notes: 'D-E-F#-G-A-Bb-C#', description: 'D major scale with the sixth degree lowered (Bb)'}, 
+                        {name: 'D# Harmonic Major', key: 'D#', notes: 'D#-E#-F##-G#-A#-B-C##', description: 'D-sharp major scale with the sixth degree lowered (B)'}, 
 
 
                         {name: 'A Minor', key: 'A', notes: 'A-B-C-D-E-F-G', description: 'A minor is a minor scale based on A, with the pitches A, B, C, D, E, F, and G. Its key signature has no flats and no sharps. Its relative major is C major and its parallel major is A major.'},
