@@ -39,7 +39,10 @@ scales = Scale.create([
                         {name: 'G Harmonic Major', key: 'G', notes: 'G-A-B-C-D-Eb-F#', description: 'G major scale with the sixth degree lowered (Eb)'}, 
                         {name: 'G# Harmonic Major', key: 'G#', notes: 'G#-A#-B#-C#-D#-E-F##', description: 'G# major scale with the sixth degree lowered (E)'}, 
                         {name: 'Ab Harmonic Major', key: 'Ab', notes: 'Ab-Bb-C-Db-Eb-Fb-G', description: 'A-flat major scale with the sixth degree lowered (Fb / E)'}, 
-                        {name: 'A Harmonic Major', key: 'Ab', notes: 'A-B-C#-D-E-F-G#', description: 'A major scale with the sixth degree lowered (F)'}, 
+                        {name: 'A Harmonic Major', key: 'A', notes: 'A-B-C#-D-E-F-G#', description: 'A major scale with the sixth degree lowered (F)'}, 
+                        {name: 'A# Harmonic Major', key: 'A#', notes: 'A#-B#-C##-D#-E#-F#-G##', description: 'A-sharp major scale with the sixth degree lowered (F#)'}, 
+                        {name: 'Bb Harmonic Major', key: 'Bb', notes: 'Bb-C-D-Eb-F-Gb-A', description: 'B-flat major scale with the sixth degree lowered (Gb)'}, 
+                        {name: 'B Harmonic Major', key: 'B', notes: 'B-C#-D#-E-F#-G-A#', description: 'B major scale with the sixth degree lowered (G)'}, 
 
 
                         {name: 'A Minor', key: 'A', notes: 'A-B-C-D-E-F-G', description: 'A minor is a minor scale based on A, with the pitches A, B, C, D, E, F, and G. Its key signature has no flats and no sharps. Its relative major is C major and its parallel major is A major.'},
